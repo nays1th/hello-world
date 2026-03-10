@@ -1,2 +1,1 @@
-# hello-world
-hello world practice
+showing up and do better
